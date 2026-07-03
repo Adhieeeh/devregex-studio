@@ -9,6 +9,7 @@ DevRegex is an interactive client-side regular expression studio engineered usin
 ![](devr.png)
 
 ##  Technical Highlights Tested
+-------------------------------------------------------------------------------------------
 *  **Reactive State Compilations:** Uses unified computed variable blocks to re-evaluate structural code evaluations only when patterns or text matrices alter.
 *  **Defensive Try/Catch Paradigms:** Intercepts regex syntax errors during character generation loops, piping structural formatting faults straight down onto isolated error HUD panels without halting thread operations.
 
