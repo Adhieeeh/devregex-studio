@@ -19,3 +19,5 @@ DevRegex is an interactive client-side regular expression studio engineered usin
 
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
+
+----------------------------------------------------------------------------------------
