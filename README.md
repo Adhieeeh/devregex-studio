@@ -15,5 +15,7 @@ DevRegex is an interactive client-side regular expression studio engineered usin
 *  **Defensive Try/Catch Paradigms:** Intercepts regex syntax errors during character generation loops, piping structural formatting faults straight down onto isolated error HUD panels without halting thread operations.
 
 ##  Running Instructions
+
+
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
